@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.3g.qq.com	TRUE	/	FALSE	1524558723	pt_ccv	97FC96702DE9F6D67297E8767EB3ABC6!7864d2f6-dada-4494-96c3-61f081bcbcca!1493022723276!183.36.192.39
+.3g.qq.com	TRUE	/	FALSE	1587630723	pt_sccv	97FC96702DE9F6D67297E8767EB3ABC6!35a640c5-f56f-4036-8f1f-a751967f4645!1493022723276!183.36.192.39
+.qq.com	TRUE	/	FALSE	1498206723	g_ut	1

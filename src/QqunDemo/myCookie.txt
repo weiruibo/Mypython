@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.h5.qzone.qq.com	TRUE	/mqzone/index	FALSE	1493029960	x-stgw-ssl-info	4c53566202f187018149198fff8e15f1_0.006_1493029056.872_1_N_N_N_TLSv1_AES128-SHA_8000_0:0:0:0:0:0:0
+.ptlogin2.qq.com	TRUE	/	FALSE		pt_clientip	9cbbb724c0277343
+.ptlogin2.qq.com	TRUE	/	FALSE		pt_login_sig	ZmFcWUUHBOXV4FHK5XGduIJAjTxiibA8o89Tigp6q0QgeU0tK-*NZkO2axxadkJv
+.ptlogin2.qq.com	TRUE	/	FALSE		pt_serverip	e2500ab19b5d94c1
+.ui.ptlogin2.qq.com	TRUE	/	FALSE	1808389056	pt_user_id	15104019732871603133
+.ui.ptlogin2.qq.com	TRUE	/	FALSE		ptui_identifier	000DED53B8FE0D0B7672A0BE5341308D0D0B082114286018F67F29FE
